@@ -67,7 +67,7 @@ body, h1, h2, h3, h4, h5, h6 {
     <header class="w3-container w3-padding-32 w3-center w3-black">
         <h1 class="w3-jumbo">Welcome to My Portfolio</h1>
         <p>Designed and developed by <strong>Kranthi Kumar Reddy Vadiyala</strong></p>
-        <img src="img/kumar.jpeg" alt="Header Image" class="w3-image" style="max-width:100%; height:auto;">
+        <img src="img/kumar.jpeg" alt="Header Image" class="w3-image" style="max-width:50%; height:50%;">
     </header>
 
     <!-- Reflection Section -->
@@ -79,7 +79,7 @@ body, h1, h2, h3, h4, h5, h6 {
 Probably my favorite topic was studying social engineering and how people can be a major security threat. This made me understand how attackers take advantage of the trust that they have in a system in other to gain an unauthorized access, hence the need for training in cybersecurity awareness. Cryptography was another interesting topic that was also discussed in the given papers. It was interesting to learn about application of AES and RSA to maintain the security of conversation’s information and integrity.
 
 For the future, I am willing to explore more and much more about Information Security with a focal point on its sophisticate aspects. This is something I would love to know more about: how to perform penetration testing, ethical hacking and how to do security audits. That includes learning about the topics related to zero day exploit detection and prevention. Also, given the fact that many companies rely on cloud computing, it would also be useful to find out how to protect cloud structures. In sum, this class has provided a good foundation on which I am willing to work on to foster the creation of a more secure internet.</p>
-        <img src="img/kumar.jpeg" alt="About Me Image" class="w3-image" style="max-width:100%; height:auto;">
+        <img src="img/kumar.jpeg" alt="About Me Image" class="w3-image" style="max-width:25%; height:25%;">
     </section>
 
 <!-- Registration -->
